@@ -9,7 +9,7 @@ const Contact = () => {
         Get in Touch with Me..!
       </h1>
       <p className='text-lg sm:text-xl font-bold text-white text-center mt-5 max-w-2xl'>
-        We'd love to hear from you! Whether you have a question about our services, pricing, or anything else, we’re here to help.
+        We&apos;d love to hear from you! Whether you have a question about our services, pricing, or anything else, we&apos;re here to help.
       </p>
 
       <div className='w-full sm:w-[40rem] bg-slate-600 mt-9 p-6 sm:p-8 rounded-lg shadow-lg'>

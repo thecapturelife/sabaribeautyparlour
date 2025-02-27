@@ -8,7 +8,7 @@ const Footer = () => {
         
         {/* Branding / Copyright */}
         <p className="text-sm sm:text-base">
-          © {new Date().getFullYear()} Sabari's Beauty Parlour. All rights reserved.
+          © {new Date().getFullYear()} Sabari&apos;s Beauty Parlour. All rights reserved.
         </p>
 
         {/* Social Icons */}

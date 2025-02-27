@@ -3,8 +3,6 @@ import Image from "next/image";
 import logo from "@/app/assets/Sabari1.png";
 import React, { useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
-import Link from "next/link";
-import Home from "../page";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -21,8 +19,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 w-full h-32 bg-white/10 backdrop-blur-md shadow-lg flex items-center justify-between px-6 md:px-12 z-50">
       {/* Left Navigation (Desktop) */}
       <ul className="hidden md:flex w-1/3 justify-start gap-8 text-white text-lg font-semibold">
-      
-      <li className="hover:text-gray-700 cursor-pointer">Home</li>
+        <li className="hover:text-gray-700 cursor-pointer">Home</li>
         <li className="hover:text-gray-700 cursor-pointer">About</li>
         <li className="hover:text-gray-700 cursor-pointer">Contact</li>
       </ul>

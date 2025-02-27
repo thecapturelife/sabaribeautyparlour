@@ -15,16 +15,16 @@ const About = () => {
         className="w-full lg:w-1/2 flex flex-col justify-center text-center lg:text-left"
       >
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-yellow-600">
-        Unveil the Essence of  <br className="hidden lg:block"/> Beauty
+          Unveil the Essence of  <br className="hidden lg:block"/> Beauty
         </h1>
         <p className="text-lg md:text-xl font-mono font-semibold mt-5 text-green-50 leading-relaxed">
-          Welcome to Sabari Beauty Parlour – Complete Makeover Solutions! <br />
+          Welcome to Sabari Beauty Parlour  Complete Makeover Solutions! <br />
           At Sabari Beauty Parlour, we believe that beauty is all about confidence. <br />
           Step into our world of elegance, where we offer expert styling, skincare, <br />
           and complete makeover solutions tailored just for you. <br />
-          Whether it's a simple refresh or a stunning transformation, <br />
+          Whether it&apos;s a simple refresh or a stunning transformation, <br />
           our skilled professionals ensure you leave feeling radiant and beautiful. <br />
-          Experience the art of beauty with us – because you deserve the best.
+          Experience the art of beauty with us  because you deserve the best.
         </p>
       </motion.div>
 

@@ -17,7 +17,7 @@ const Main = () => {
       {/* Content Overlay */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white bg-black/50 px-4 text-center">
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
-          Welcome to Sabari's Beauty Parlour
+          Welcome to Sabari&apos;s Beauty Parlour
         </h1>
         <p className="text-base sm:text-lg md:text-xl mt-2">
           Fresh cuts, sharp styles, and great vibes await
