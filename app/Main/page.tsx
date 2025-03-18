@@ -10,7 +10,7 @@ const Main = () => {
         loop
         muted
       >
-        <source src="/v2video3.mp4" type="video/mp4" />
+        <source src="/girl.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
